@@ -10,6 +10,7 @@ backoff = "*"
 [dev-packages]
 pytest = "*"
 requests-mock = "*"
+flit = "*"
 
 [requires]
 python_version = "3.7"
