@@ -8,12 +8,3 @@ author = "Przemysław Łada"
 author-email = "przlada@gmail.com"
 home-page = "https://github.com/przlada/pyshoper"
 classifiers = ["License :: OSI Approved :: MIT License"]
-
-[distutils]
-index-servers = ["pypi", "testpypi"]
-
-[pypi]
-repository = "https://upload.pypi.org/legacy/"
-
-[testpypi]
-repository = "https://test.pypi.org/legacy/"
