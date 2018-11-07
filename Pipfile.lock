@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "1298af26f782fdc99c3b2230ef48cd4095fb8542009a27a4dfb4d3ae9adb328d"
+            "sha256": "56986a6b98535d3c72ea94c7d44b608e099d29a699da744e5ac4e880c28014b0"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -37,34 +37,12 @@
             ],
             "version": "==3.0.4"
         },
-        "docutils": {
-            "hashes": [
-                "sha256:02aec4bd92ab067f6ff27a38a38a41173bf01bed8f89157768c1573f53e474a6",
-                "sha256:51e64ef2ebfb29cae1faa133b3710143496eca21c530f3f71424d77687764274",
-                "sha256:7a4bd47eaf6596e1295ecb11361139febe29b084a87bf005bf899f9a42edc3c6"
-            ],
-            "version": "==0.14"
-        },
-        "flit": {
-            "hashes": [
-                "sha256:6aefa6ff89a993af7a7af40d3df3d0387d6663df99797981ec41b1431ec6d1e1",
-                "sha256:9969db9708305b64fd8acf20043fcff144f910222397a221fd29871f02ed4a6f"
-            ],
-            "index": "pypi",
-            "version": "==1.2.1"
-        },
         "idna": {
             "hashes": [
                 "sha256:156a6814fb5ac1fc6850fb002e0852d56c0c8d2531923a51032d1b70760e186e",
                 "sha256:684a38a6f903c1d71d6d5fac066b58d7768af4de2b832e426ec79c30daa94a16"
             ],
             "version": "==2.7"
-        },
-        "pytoml": {
-            "hashes": [
-                "sha256:ca2d0cb127c938b8b76a9a0d0f855cf930c1d50cc3a0af6d3595b566519a1013"
-            ],
-            "version": "==0.1.20"
         },
         "requests": {
             "hashes": [
@@ -126,6 +104,22 @@
             ],
             "version": "==3.0.4"
         },
+        "docutils": {
+            "hashes": [
+                "sha256:02aec4bd92ab067f6ff27a38a38a41173bf01bed8f89157768c1573f53e474a6",
+                "sha256:51e64ef2ebfb29cae1faa133b3710143496eca21c530f3f71424d77687764274",
+                "sha256:7a4bd47eaf6596e1295ecb11361139febe29b084a87bf005bf899f9a42edc3c6"
+            ],
+            "version": "==0.14"
+        },
+        "flit": {
+            "hashes": [
+                "sha256:6aefa6ff89a993af7a7af40d3df3d0387d6663df99797981ec41b1431ec6d1e1",
+                "sha256:9969db9708305b64fd8acf20043fcff144f910222397a221fd29871f02ed4a6f"
+            ],
+            "index": "pypi",
+            "version": "==1.2.1"
+        },
         "idna": {
             "hashes": [
                 "sha256:156a6814fb5ac1fc6850fb002e0852d56c0c8d2531923a51032d1b70760e186e",
@@ -162,6 +156,12 @@
             ],
             "index": "pypi",
             "version": "==3.10.0"
+        },
+        "pytoml": {
+            "hashes": [
+                "sha256:ca2d0cb127c938b8b76a9a0d0f855cf930c1d50cc3a0af6d3595b566519a1013"
+            ],
+            "version": "==0.1.20"
         },
         "requests": {
             "hashes": [

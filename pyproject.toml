@@ -8,3 +8,21 @@ author = "Przemysław Łada"
 author-email = "przlada@gmail.com"
 home-page = "https://github.com/przlada/pyshoper"
 classifiers = ["License :: OSI Approved :: MIT License"]
+
+requires = [
+    "backoff",
+    "certifi",
+    "chardet",
+    "idna",
+    "requests",
+    "uplink",
+    "uritemplate",
+    "urllib3",
+]
+description-file = "README.md"
+requires-python = ">=3.5"
+
+[tool.flit.metadata.requires-extra]
+test = [
+    "pytest",
+]
